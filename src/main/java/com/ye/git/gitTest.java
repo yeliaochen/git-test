@@ -9,5 +9,10 @@ public class gitTest {
         System.out.println("Hello git!");
         System.out.println("Hello git!2");
         System.out.println("master！");
+        System.out.println("hot-fix！");
+        System.out.println("Hello git!2");
+        System.out.println("hot-fix！");
+        System.out.println("Hello git!2");
+        System.out.println("push");
     }
 }
